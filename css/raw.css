@@ -135,8 +135,7 @@ h4 {
   }
 }
 
-.wrapper {
-}
+
 
 section {
   padding: 40px 0px;
@@ -160,15 +159,31 @@ section.dark {
     color: white;
 }
 .navbar-brand{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;  
+}
+.logoepidemium {
+text-align: center;
+
+}
+
+.motsnav {
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-size: 1.2em !important;
 }
 
 .motto{
-    width: 80%;
+    width: 60%;
+    background-color: #3847a0;
+    font-size: 1,5em;
+    color: #fff !important;
+}
+
+.containernav {
+  background-color: #3847a0;
 }
 
 .navbar-light .navbar-nav .nav-link{
-    color: #2DD8B1;
+    color: #FFF;
 }
 
 .nav-pills>li>a, .nav-pills>li>a:focus  {
